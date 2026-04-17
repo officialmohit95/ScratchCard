@@ -65,7 +65,7 @@
     <!-- Hidden Message -->
     <div class="message" id="message">
       <h2>Shagun</h2>
-      <p>Hurray! You won ₹11</p>
+      <p>Hurray! You won ₹1100</p>
     </div>
 
     <!-- Scratch Layer -->
