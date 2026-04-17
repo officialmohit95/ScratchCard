@@ -64,7 +64,7 @@
   <div class="card">
     <!-- Hidden Message -->
     <div class="message" id="message">
-      <h2>Samarth</h2>
+      <h2>Shagun</h2>
       <p>Hurray! You won ₹11</p>
     </div>
 
