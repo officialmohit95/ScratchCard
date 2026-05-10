@@ -64,8 +64,8 @@
   <div class="card">
     <!-- Hidden Message -->
     <div class="message" id="message">
-      <h2>Shagun</h2>
-      <p>Hurray! You won ₹1100</p>
+      <h2>Happy Birthday Nisha Mam </h2>
+      <p>You are amazing</p>
     </div>
 
     <!-- Scratch Layer -->
