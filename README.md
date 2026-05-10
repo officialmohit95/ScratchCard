@@ -65,7 +65,7 @@
     <!-- Hidden Message -->
     <div class="message" id="message">
       <h2>Happy Birthday Nisha Mam </h2>
-      <p>You are amazing</p>
+      <p>Hurray!... </p>
     </div>
 
     <!-- Scratch Layer -->
